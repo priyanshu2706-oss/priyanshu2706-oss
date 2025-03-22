@@ -1,9 +1,4 @@
 <h1 align="center">👋 Hi, I'm Priyanshu Tomar!</h1>
-<h3 align="center">🚀 Data Analyst | Machine Learning Enthusiast</h3>
-
-<p align="center">
-  <img src="https://github.com/priyanshu2706-oss/priyanshu2706-oss/raw/main/profile-banner.png" alt="Profile Banner">
-</p>
 
 ---
 
@@ -25,17 +20,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu2706-oss&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu2706-oss&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
 ---
